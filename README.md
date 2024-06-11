@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshiita07&label=Profile%20views&color=0e75b6&style=plastic" alt="akshiita07" /> </p>
 
-// [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=+;;;lets+connect...)](https://git.io/typing-svg)
 
--  🔭 I’m currently working on *backend web development and react.js*
+- 🔭 I’m currently working on *backend web development and react.js*
 - 🌱 I’m currently learning *React.JS*
 - 👯 I’m looking to collaborate on *Full Stack projects*
 - 😄 Pronouns: *she/her*
