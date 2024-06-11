@@ -4,12 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshiita07&label=Profile%20views&color=0e75b6&style=plastic" alt="akshiita07" /> </p>
 
 
-- 🔭 I’m currently working on *backend web development and react.js*
-- 🌱 I’m currently learning *React.JS*
+- 🌱 I’m currently learning *Backend web development, React.JS  and Machine Learning*
 - 👯 I’m looking to collaborate on *Full Stack projects*
-- 😄 Pronouns: *she/her*
-- ⚡ Fun fact: *Crazy for desserts 🤤*
-- 📫 How to reach me: **pathakshita07@gmail.com** / **apathak1_be22@thapar.edu**
+- 📫 How to reach me: **pathakshita07@gmail.com**
 
 <h3 align="left">Social Platforms</h3>
 <p align="left">
