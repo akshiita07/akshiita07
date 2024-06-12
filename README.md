@@ -2,7 +2,8 @@
 
 <h3 align="center">A Third year Computer Science Undergrad</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshiita07&label=Profile%20views&color=blueviolet&style=plastic&base=1000&abbreviated=true" alt="akshiita07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshiita07&label=Profile%20views&color=blueviolet&style=plastic&abbreviated=true" alt="akshiita07" /> </p>
+<!-- &base=1000 can add when reqd -->
 
 
 - 🌱 I’m currently learning *Backend web development, React.JS  and Machine Learning*
