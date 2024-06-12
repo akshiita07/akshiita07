@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Akshita Pathak</h1>
 <h3 align="center">A Third year Computer Science Undergrad</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshiita07&label=Profile%20views&color=0e75b6&style=plastic" alt="akshiita07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshiita07&label=Profile%20views&color=blueviolet&style=plastic&base=1000&abbreviated=true" alt="akshiita07" /> </p>
 
 
 - 🌱 I’m currently learning *Backend web development, React.JS  and Machine Learning*
@@ -18,11 +18,22 @@
 
 <h3 align="left">Github Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshiita07&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en" alt="akshiita07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshiita07&theme=highcontrast" alt="akshiita07" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshiita07&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en&layout=compact" alt="akshiita07" /></p>
 <br>
+<br><br>
+<br><br>
+<br><br>
+<br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshiita07&theme=highcontrast" alt="akshiita07" /></p>
+<br>
+<br><br>
+<br><br>
+<br><br>
+<br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akshiita07&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en" alt="akshiita07" /></p>
+
+
+
 
 
