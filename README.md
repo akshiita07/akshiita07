@@ -12,10 +12,10 @@
 
 <h3 align="left">Social Platforms</h3>
 <p align="left">
-<a href="mailto:pathakshita07@gmail.com" target="blank"><img align="center" target="_blank" src="https://skillicons.dev/icons?i=gmail" alt="akshiita07" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/akshitapathak/" target="blank"><img align="center" target="_blank"  src="https://skillicons.dev/icons?i=linkedin" alt="akshiita07" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/apathak1_be22/" target="blank"><img align="center" target="_blank"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshiita07" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_akshitapathak/" target="blank"><img align="center" target="_blank"  src="https://skillicons.dev/icons?i=instagram" alt="akshiita07" height="30" width="40" /></a>
+<a href="mailto:pathakshita07@gmail.com"  target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="akshiita07" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshitapathak/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="akshiita07" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/apathak1_be22/"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshiita07" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_akshitapathak/"  target="_blank"><img align="center"  src="https://skillicons.dev/icons?i=instagram" alt="akshiita07" height="30" width="40" /></a>
 
 </p>
 
