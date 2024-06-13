@@ -40,6 +40,17 @@
 <br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akshiita07&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en" alt="akshiita07" /></p>
 
+<br>
+<br><br>
+<br><br>
+<br><br>
+<br>
+
+## Support:
+<p><a href="https://buymeacoffee.com/akshiita07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashispro" /></a></p><br><br>
+
+<br>
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100vw&section=footer"/>
 </p>
