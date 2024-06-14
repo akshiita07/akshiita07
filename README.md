@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on *Full Stack projects*
 - 📫 How to reach me: **pathakshita07@gmail.com**
 
-<h3 align="left">Social Platforms</h3>
+<h3 align="left">🖥 Connect with me:</h3>
 <p align="left">
 <a href="mailto:pathakshita07@gmail.com"  target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="akshiita07" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/akshitapathak/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="akshiita07" height="30" width="40" /></a>
