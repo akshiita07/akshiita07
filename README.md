@@ -6,7 +6,7 @@
 <!-- &base=1000 can add when reqd -->
 
 
-- 🌱 I’m currently learning *Backend web development, React.JS  and Machine Learning*
+- 🌱 I’m currently learning *Backend web development and Machine Learning*
 - 👯 I’m looking to collaborate on *Full Stack projects*
 - 📫 How to reach me: **pathakshita07@gmail.com**
 
