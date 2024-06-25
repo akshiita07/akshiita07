@@ -43,11 +43,12 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akshiita07&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en" alt="akshiita07" /></p>
 <br>
 <br><br>
-
-[![Akshita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshiita07&theme=react-dark)](https://github.com/akshiita07/github-readme-activity-graph)
-
-
 <br><br>
+     
+<!-- graph -->
+<p>&nbsp;<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=akshiita07&theme=react-dark"  alt="akshiita07" /></p>
+
+
 <br><br>
 <br>
 
