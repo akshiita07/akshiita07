@@ -52,7 +52,6 @@
 <br><br>
 <br>
 
-## Support:
 <p><a href="https://buymeacoffee.com/akshiita07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashispro" /></a></p><br><br>
 
 <br>
