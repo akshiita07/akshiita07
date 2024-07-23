@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on *Full Stack projects*
 - 📫 How to reach me: **pathakshita07@gmail.com**
 
-<h3 align="left">🖥 Connect with me:</h3>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50" height ="40"/> **Connect with me:**  
 <p align="left">
 <a href="mailto:pathakshita07@gmail.com"  target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="akshiita07" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/akshitapathak/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="akshiita07" height="30" width="40" /></a>
@@ -20,7 +20,7 @@
 
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,sklearn,mysql,postgres,html,css,bootstrap,js,jquery,react,expressjs,nodejs,postman,npm,mongodb,pug,git,github,netlify,vscode,matlab,ps,autocad,aws,linux,arduino,stackoverflow&perline=13)](#)
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats:</h3>
