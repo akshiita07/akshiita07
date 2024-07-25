@@ -45,7 +45,7 @@
 <br>
 <br><br>
 <br><br>
-     
+<p align="center"> <img src="https://raw.githubusercontent.com/arshiyaakishore/snake-for-readme/main/snakegame.svg" alt="Snake animation" /> </p>
 <!-- graph -->
 <p>&nbsp;<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=akshiita07&theme=react-dark"  alt="akshiita07" /></p>
 
