@@ -7,7 +7,6 @@
 
 
 - 🌱 I’m currently leaveraging *AI and ML* in my projects.
-- 👯 I’m looking to collaborate on *Full Stack projects*
 - 📫 How to reach me: **pathakshita07@gmail.com**
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50" height ="40"/> **Connect with me:**  
