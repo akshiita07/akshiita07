@@ -9,7 +9,8 @@
 - 🌱 I’m currently leaveraging *AI and ML* in my projects.
 - 📫 How to reach me: **pathakshita07@gmail.com**
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50" height ="40"/> **Connect with me:**  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Connect with me:**  
+
 <p align="left">
 <a href="mailto:pathakshita07@gmail.com"  target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="akshiita07" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/akshitapathak/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="akshiita07" height="30" width="40" /></a>
@@ -44,12 +45,22 @@
 <br>
 <br><br>
 <br><br>
-<p align="center"> <img src="https://raw.githubusercontent.com/arshiyaakishore/snake-for-readme/main/snakegame.svg" alt="Snake animation" /> </p>
-<!-- graph -->
-<p>&nbsp;<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=akshiita07&theme=react-dark"  alt="akshiita07" /></p>
-
-
 <br><br>
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Leetcode Info:**  
+
+  <a href="https://leetcode.com/akshitapathak/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="akshita50" height="200" width="200" /></a>
+
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/akshitapathak?theme=dark&font=Nunito&ext=heatmap" />  
+
+
+<!-- <p align="center"> <img src="https://raw.githubusercontent.com/arshiyaakishore/snake-for-readme/main/snakegame.svg" alt="Snake animation" /> </p>-->
+
+<!-- graph -->
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=akshiita07&theme=react-dark"  alt="akshiita07" /></p> -->
+
+
 <br>
 
 <p><a href="https://buymeacoffee.com/akshiita07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashispro" /></a></p><br><br>
@@ -57,6 +68,5 @@
 <br>
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100vw&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=1000&section=footer"/>
 </p>
-
