@@ -51,15 +51,21 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Leetcode Info:**  
 
 <div style="display: flex; gap: 10px;">
+<!--   50 days -->
   <a href="https://leetcode.com/akshitapathak/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="akshita50" height="200" width="200" />
   </a>
+<!--   100 days -->
+  <a href="https://leetcode.com/akshitapathak/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="akshita50" height="200" width="200" />
+  </a>
+<!--   september -->
   <a href="https://leetcode.com/akshitapathak/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" alt="akshita50" height="200" width="200" />
   </a>
-  
+<!--   october -->
   <a href="https://leetcode.com/akshitapathak/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="akshita50" height="200" width="200" />
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="akshita50" height="200" width="200" />
   </a>
 </div>
 
