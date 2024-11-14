@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshiita07&label=Profile%20views&color=blueviolet&style=plastic" alt="akshiita07" /> </p>
 <!-- &base=1000 can add when reqd &abbreviated=true-->
 
-
-- 🌱 I’m currently leaveraging *AI and ML* in my projects.
+- 🧑🏻‍💻 Upcoming SEP Intern @ JPMorgan
+- 🌱 I’m currently learning *AI and ML*.
 - 📫 How to reach me: **pathakshita07@gmail.com**
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Connect with me:**  
@@ -60,13 +60,13 @@
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="akshita50" height="200" width="200" />
   </a>
 <!--   september -->
-  <a href="https://leetcode.com/akshitapathak/" target="_blank">
+<!--   <a href="https://leetcode.com/akshitapathak/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" alt="akshita50" height="200" width="200" />
-  </a>
+  </a> -->
 <!--   october -->
-  <a href="https://leetcode.com/akshitapathak/" target="_blank">
+<!--   <a href="https://leetcode.com/akshitapathak/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="akshita50" height="200" width="200" />
-  </a>
+  </a> -->
 </div>
 
   
