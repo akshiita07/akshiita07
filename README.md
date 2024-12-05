@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshiita07&label=Profile%20views&color=blueviolet&style=plastic" alt="akshiita07" /> </p>
 <!-- &base=1000 can add when reqd &abbreviated=true-->
 
-- 🧑🏻‍💻 Upcoming SEP Intern @ JPMorgan
+<!--- 🧑🏻‍💻 Upcoming SEP Intern @ JPMorgan-->
 - 🌱 I’m currently learning *AI and ML*.
 - 📫 How to reach me: **pathakshita07@gmail.com**
 
