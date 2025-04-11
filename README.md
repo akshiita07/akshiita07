@@ -58,7 +58,7 @@
   </a>
 <!--   100 days -->
   <a href="https://leetcode.com/akshitapathak/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="akshita50" height="200" width="200" />
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="akshita50" height="200" width="200" />
   </a>
 <!--   september -->
 <!--   <a href="https://leetcode.com/akshitapathak/" target="_blank">
