@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning *AI and ML*.
 - 📫 How to reach me: **pathakshita07@gmail.com**
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Connect with me:**  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Connect with me**  
 
 <p align="left">
 <a href="mailto:pathakshita07@gmail.com"  target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="akshiita07" height="30" width="40" /></a>
@@ -21,7 +21,7 @@
 
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="Hammer and Wrench" width="30" height="30" /> **Tech Arsenal**  
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,sklearn,mysql,postgres,html,css,bootstrap,js,jquery,react,expressjs,nodejs,postman,npm,mongodb,pug,git,github,netlify,vscode,matlab,ps,autocad,aws,linux,androidstudio,arduino,stackoverflow&perline=13)](#)
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats:</h3>
@@ -49,40 +49,44 @@
 <br><br>
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Leetcode Info:**  
+<details>
+  <summary><strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> Leetcode Info</strong></summary>
+  <br>
 
-<div style="display: flex; gap: 10px;">
-<!--   50 days -->
+  <!-- 50 days -->
   <a href="https://leetcode.com/akshitapathak/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="akshita50" height="200" width="200" />
   </a>
-<!--   100 days -->
+
+  <!-- 100 days -->
   <a href="https://leetcode.com/akshitapathak/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="akshita50" height="200" width="200" />
   </a>
-<!--   september -->
-<!--   <a href="https://leetcode.com/akshitapathak/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" alt="akshita50" height="200" width="200" />
-  </a> -->
-<!--   october -->
-<!--   <a href="https://leetcode.com/akshitapathak/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="akshita50" height="200" width="200" />
-  </a> -->
-</div>
 
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/akshitapathak?theme=dark&font=Nunito&ext=heatmap" />  
+  <br>
 
+  <img align="top" src="https://leetcard.jacoblin.cool/akshitapathak?theme=dark&font=Nunito&ext=heatmap" />
+</details>
 
 <!-- <p align="center"> <img src="https://raw.githubusercontent.com/arshiyaakishore/snake-for-readme/main/snakegame.svg" alt="Snake animation" /> </p>-->
 
 <!-- graph -->
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=akshiita07&theme=react-dark"  alt="akshiita07" /></p> -->
 
-
 <br>
 
-<p><a href="https://buymeacoffee.com/akshiita07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashispro" /></a></p><br><br>
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazg1MnprbmVrYzZmYmExYXl3OGsyMDBkdXJxbzYwa3F6dWs4b2Z6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4LwJFSVKUsOLsZIbpj/giphy.gif" alt="Badge" width="30" height="30" /> **Badges**  
+
+<div align="left">
+  <a href="https://www.credly.com/badges/be5f2810-4fce-450d-97b9-b76f636fcf42">
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100">
+  </a>
+</div>
+
+<br>
+<br>
+
+<p><a href="https://buymeacoffee.com/akshiita07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akshita buy coffee" /></a></p><br><br>
 
 <br>
 
