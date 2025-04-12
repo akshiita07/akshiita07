@@ -49,10 +49,10 @@
 <br><br>
 <br>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Leetcode Info**
 <details>
-  <summary><strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> Leetcode Info</strong></summary>
+  <summary>View Here</summary>
   <br>
-
   <!-- 50 days -->
   <a href="https://leetcode.com/akshitapathak/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="akshita50" height="200" width="200" />
