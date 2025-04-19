@@ -6,7 +6,7 @@
 <!-- &base=1000 can add when reqd &abbreviated=true-->
 
 <!--- 🧑🏻‍💻 Upcoming SEP Intern @ JPMorgan-->
-- 🌱 I’m currently learning *AI and ML*.
+- 🌱 I’m currently learning how to leverage *AI and ML* in my projects.
 - 📫 How to reach me: **pathakshita07@gmail.com**
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Connect with me**  
