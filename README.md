@@ -8,7 +8,7 @@
 <!--- 🧑🏻‍💻 Upcoming SEP Intern @ JPMorgan-->
 - 🌱 I’m currently learning how to leverage *AI and ML* in my projects
 - 📫 How to reach me: **pathakshita07@gmail.com**
-- ⚡ Fun fact: I have an equally comparable streak on <a href="https://www.duolingo.com/profile/akshitapathak07?via=share_profile_qr" target="_blank"><img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" height="30" width="80" /></a>
+- ⚡ Fun fact: I have an equally comparable streak on <a href="https://www.duolingo.com/profile/akshitapathak07?via=share_profile_qr" target="_blank"><img align="center" target="_blank" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" height="30" width="80" /></a>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Connect with me**  
 
