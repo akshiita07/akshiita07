@@ -63,7 +63,12 @@
   <a href="https://leetcode.com/akshitapathak/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="akshita100"  height="200" width="200"/>
   </a>
+  
 
+  <!-- 200 days -->
+  <a href="https://leetcode.com/akshitapathak/" target="_blank">
+    <img src=https://assets.leetcode.com/static_assets/others/200.gif" alt="akshita200"  height="200" width="200"/>
+  </a>
   
   <!-- 365 days -->
   <a href="https://leetcode.com/akshitapathak/" target="_blank">
