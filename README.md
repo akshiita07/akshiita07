@@ -69,15 +69,11 @@
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats:</h3>
 
 
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshiita07&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en&layout=compact" alt="akshiita07" /></p>
 
-<br>
-<br><br>
-<br><br>
-<br><br>
-<br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshiita07&theme=highcontrast" alt="akshiita07" /></p>
-
+</div>
 
 <br>
 <br><br>
