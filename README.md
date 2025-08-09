@@ -39,10 +39,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,java,jquery" />
 </p>
 
-### Android App Dev
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
-</p>
 
 ### Libraries
 <p>
@@ -58,6 +54,11 @@
 <p >
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="48" height="48"/>
+</p>
+
+### Android App Dev
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
 </p>
 
 ### Tools & Frameworks
