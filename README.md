@@ -108,11 +108,21 @@
   
 
   <!-- 200 days -->
+  <a href="https://leetcode.com/akshitapathak/" target="_blank">
+    <img src="  https://assets.leetcode.com/static_assets/others/200.gif" alt="akshita200"  height="200" width="200"/>
+  </a>
+
   
   <!-- 365 days -->
   <a href="https://leetcode.com/akshitapathak/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="akshita365"  height="200" width="200"/>
   </a>
+
+  <!-- 2025 days -->
+  <a href="https://leetcode.com/akshitapathak/" target="_blank">
+    <img src=" https://assets.leetcode.com/static_assets/others/2025.gif" alt="akshita2025"  height="200" width="200"/>
+  </a>
+ 
 
   <br>
 
