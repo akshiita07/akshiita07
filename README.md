@@ -18,18 +18,30 @@
 - 💻 I’m currently working on full-stack projects and learning how to leverage *AI and ML* in my projects.
 - 🌱 Will be delving into iOS and android development soon.
 - 📫 How to reach me: **pathakshita07@gmail.com**
-- ⚡ Fun fact: I have an equally comparable streak on <a href="https://www.duolingo.com/profile/akshitapathak07?via=share_profile_qr" target="_blank"><img align="center" target="_blank" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" height="30" width="80" /></a>
+- ⚡ Fun fact: I have an equally comparable streak on <a href="https://www.duolingo.com/profile/akshitapathak07?via=share_profile_qr"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" height="30"/></a>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Let's Connect**  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="25" /> **Let's Connect**
 
-<p align="left">
-<a href="mailto:pathakshita07@gmail.com"  target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="akshiita07" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/akshitapathak/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="akshiita07" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/akshitapathak/"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshiita07" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/akshitapathak/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshiita07" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/AkshitaPathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="AkshitaPathak" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_akshitapathak/"  target="_blank"><img align="center"  src="https://skillicons.dev/icons?i=instagram" alt="akshiita07" height="30" width="40" /></a>
 
+<p align="left" style="display:flex; gap:1rem; align-items:center; flex-wrap:wrap;">
+  <a href="mailto:pathakshita07@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/akshitapathak/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  </a>
+  <a href="https://leetcode.com/u/akshitapathak/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/akshitapathak/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" />
+  </a>
+  <a href="https://codeforces.com/profile/AkshitaPathak" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" />
+  </a>
+  <a href="https://www.instagram.com/_akshitapathak/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="30" />
+  </a>
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="Hammer and Wrench" width="30" height="30" /> **Tech Arsenal**  
@@ -52,8 +64,7 @@
 
 ### Databases
 <p >
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="48" height="48"/>
 </p>
 
 ### Android App Dev
@@ -107,22 +118,22 @@
   </a>
   
 
-  <!-- 200 days -->
+  <!-- 200 days
   <a href="https://leetcode.com/akshitapathak/" target="_blank">
     <img src="  https://assets.leetcode.com/static_assets/others/200.gif" alt="akshita200"  height="200" width="200"/>
   </a>
-
+ -->
   
   <!-- 365 days -->
   <a href="https://leetcode.com/akshitapathak/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="akshita365"  height="200" width="200"/>
   </a>
 
-  <!-- 2025 days -->
+  <!-- 2025 day
   <a href="https://leetcode.com/akshitapathak/" target="_blank">
     <img src=" https://assets.leetcode.com/static_assets/others/2025.gif" alt="akshita2025"  height="200" width="200"/>
   </a>
- 
+ s -->
 
   <br>
 
