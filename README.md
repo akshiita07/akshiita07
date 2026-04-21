@@ -15,8 +15,8 @@
 
 
 <!--- 🧑🏻‍💻 Upcoming SEP Intern @ JPMorgan-->
+- 🏢 SEP Intern @JPMorganChase, Prev SDE Intern @Amazon
 - 💻 I’m currently working on full-stack projects and learning how to leverage *AI and ML* in my projects.
-- 🌱 Will be delving into iOS and android development soon.
 - 📫 How to reach me: **pathakshita07@gmail.com**
 - ⚡ Fun fact: I have an equally comparable streak on <a href="https://www.duolingo.com/profile/akshitapathak07?via=share_profile_qr"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" height="30"/></a>
 
